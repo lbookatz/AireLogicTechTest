@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1ccmcwkJweJUr9Xwm9q6EpdQr/Rrm3uht1933s9YGtgJxt0xyj29UvLsq84nv1ICA8L3RQnw6gLxSB0yuC0Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lbook\\CSharp\\RestApiTest\\AireLogicTechTest\\AireLogicTechTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lbook\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lbook\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
